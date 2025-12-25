@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# ReworkMod
+This is a rework mod, rewriting the all civs to anothers victory condictions, and some buffs and nerfs to others
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
