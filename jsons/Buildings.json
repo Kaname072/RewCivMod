@@ -1,5 +1,6 @@
 [
 	{
+		/////Buff: Production from Forest 1 > 2
 		"name": "Longhouse",
 		"replaces": "Workshop",
 		"uniqueTo": "Iroquois",
@@ -12,6 +13,7 @@
 		"requiredTech": "Metal Casting"
 	},
 	{
+		/////Buff: Culture 2 > 3
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
 		"uniqueTo": "Songhai",
@@ -21,5 +23,17 @@
 		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
+	},
+	{
+		/////Nerf: Faith 2 > 1
+		"name": "Pyramid",
+		"replaces": "Shrine",
+		"uniqueTo": "The Maya",
+		"faith": 1,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
 	}
 ]
