@@ -10,5 +10,16 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Mud Pyramid Mosque",
+		"replaces": "Temple",
+		"uniqueTo": "Songhai",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"culture": 3,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
 	}
 ]
