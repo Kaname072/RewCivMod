@@ -221,7 +221,7 @@
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
         "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
     },
-	{
+	{ /////Buff
 		"name": "Rome",
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
@@ -316,7 +316,7 @@
 			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
-	{
+	{ /////Buff
 		"name": "Japan",
 		"leaderName": "Oda Nobunaga",
 		"adjective": ["Japanese"],
@@ -412,7 +412,7 @@
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 
-	{
+	{ /////Buff
 		"name": "The Ottomans",
 		"leaderName": "Suleiman I",
 		"adjective": ["Ottoman"],
@@ -437,7 +437,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Barbary Corsairs",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
-			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [75]% chance>"],
+			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it"],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
@@ -601,7 +601,7 @@
 			"Ban Phai","Loci","Khon Kaen","Surin"],
         "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
     },
-	{
+	{ /////Buff
 		"name": "Spain",
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],
